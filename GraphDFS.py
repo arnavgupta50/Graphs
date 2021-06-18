@@ -1,3 +1,4 @@
+#This Program helps you to traverse the Graph in deapthward motion (to visit each node) using DFS
 from collections import defaultdict
 class Graph:
     def __init__(self):
