@@ -1,4 +1,4 @@
-#This Program helps you to traverse the Graph breadthwise (to visit each node) using BFS
+#This Program helps you to traverse the Graph in breadthward motion (to visit each node) using BFS
 from collections import defaultdict
 class Graph:
     def __init__(self):
