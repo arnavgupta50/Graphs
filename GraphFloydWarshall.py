@@ -1,3 +1,4 @@
+#This program is used to find the shortest path between two nodes in a weighted graph using Floyd Warshall Algorithm
 n = int(input("Enter the number of edges= "))
 INF=999999
 def floyd_warshall(G):
